@@ -10,4 +10,4 @@ To run the application:
 
 5. Run "expo start" at root of BookBuddy
 
-6. Press "a" to run on android emulator
+6. On the browser you can select " Run on Android device" or alternatively "Run in web browser

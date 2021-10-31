@@ -5,7 +5,6 @@ import Header from "../components/Header";
 import Footer, { footerIcons } from "../components/Footer";
 import Item from "../components/Item";
 import { ScrollView } from "react-native-gesture-handler";
-import { ITEMS } from "../data/items";
 import { db } from "../firebase";
 const ShopScreen = ({ navigation }) => {
   const [items, setItems] = useState([]);
