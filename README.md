@@ -6,7 +6,7 @@ To run the application:
 
 3. Run the virtual device created
 
-4. run command "yarn add"
+4. run command "yarn install"
 
 5. Run "expo start" at root of BookBuddy
 
