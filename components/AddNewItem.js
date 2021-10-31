@@ -27,7 +27,7 @@ const List = ({ navigation }) => {
         author: author,
         price: price,
         title: title,
-        imgUrl: imgUrl,
+        imageUrl: imgUrl,
         description: description,
       })
       .then(() => {
